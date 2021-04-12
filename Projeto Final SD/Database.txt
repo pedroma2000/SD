@@ -1,0 +1,5 @@
+1004
+1000;Pedro Machado;paredes;1001-1003-1002;false
+1001;Tiago Moreira;penafiel;1001-1002;true
+1002;Francisco Sousa;paredes;[];true
+1003;Luis Sousa;paredes;[];true
